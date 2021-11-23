@@ -1,0 +1,177 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  background-color: #f2c140;
+}
+h1 {
+  font-family: "Italianno", cursive;
+}
+h2,
+h3 {
+  font-family: "Gluten", cursive;
+}
+
+.top {
+  position: relative;
+}
+.bir {
+  width: 100%;
+}
+.foto1:hover,
+.foto2:hover,
+.foto3:hover,
+.foto4:hover,
+.foto5:hover,
+.foto6:hover,
+.foto7:hover {
+  width: 300px;
+  z-index: 100;
+  transition: 1s;
+}
+.foto1 {
+  position: absolute;
+  width: 160px;
+  border-radius: 50%;
+  margin-left: 60px;
+  margin-top: 110px;
+}
+.foto2 {
+  position: absolute;
+  border-radius: 50%;
+  width: 180px;
+  margin-left: 313px;
+  margin-top: 58px;
+}
+.foto3 {
+  position: absolute;
+  border-radius: 50%;
+  width: 170px;
+  margin-left: 160px;
+  margin-top: 290px;
+}
+.foto4 {
+  position: absolute;
+  border-radius: 50%;
+  width: 150px;
+  margin-left: 1125px;
+  margin-top: 310px;
+}
+.foto5 {
+  position: absolute;
+  border-radius: 50%;
+  width: 120px;
+  margin-left: 1150px;
+  margin-top: 55px;
+}
+.foto6 {
+  position: absolute;
+  border-radius: 50%;
+  width: 150px;
+  margin-left: 795px;
+  margin-top: 55px;
+}
+.foto7 {
+  position: absolute;
+  border-radius: 50%;
+  width: 190px;
+  margin-left: 955px;
+  margin-top: 135px;
+}
+.photo1 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 10px;
+}
+.photo2 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 10px;
+}
+.photo3 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-left: 10px;
+}
+.photo4 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 10px;
+}
+.photo5 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-left: 10px;
+}
+.photo6 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-right: 10px;
+}
+.photo7 {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-left: 10px;
+}
+.uch {
+  margin: 0 100px;
+  /* width: 60%; */
+}
+.p1 {
+  margin-bottom: 60px;
+  text-align: center;
+}
+.p2 {
+  text-align: center;
+  margin-bottom: 0px;
+  color: rgb(42, 12, 216);
+  margin-top: 5px;
+}
+.h11 {
+  /* text-align: center; */
+  /* margin: auto; */
+  margin: auto;
+  width: 1349px;
+  text-align: center;
+}
+.Bilol {
+  margin: auto;
+  width: 1349px;
+  /* text-align: center; */
+}
+.arrow {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 65px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background: #f2c140;
+}
+* {
+  scroll-behavior: smooth;
+}
+.bottom {
+  background-color: #eb9f0d;
+  padding: 40px;
+  text-align: center;
+}
+.bottom a {
+  margin: auto 10px;
+}
+.www {
+  margin-top: 40px;
+}
